@@ -7,7 +7,7 @@ License
 
 stickyCode is Copyright © 2017 CodeCarrot. It is free software, and may be redistributed under the terms specified in the [LICENSE file](LICENSE).
 
-## Help me! To continue manange this project
+## Help me! To continue manage this project
 
 I've put a lot of time and effort into making **stickyCode** project. If you love it, you can buy me a coffee. I promise it will be a good investment 😉.
 
